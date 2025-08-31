@@ -19,7 +19,7 @@ import DialogContentText from '@mui/material/DialogContentText';
 import DialogTitle from '@mui/material/DialogTitle';
 
 //import components
-import Todo from './Todo';
+import Todo from './ToDo';
 import { ToastContext } from './contexts/ToastContext';
 import { useTodos } from './contexts/TodosContext';
 //import components
