@@ -40,8 +40,7 @@ function App() {
     <ToastProvider>
     <div className="App" style={{display:"flex", justifyContent:"center",
       alignItems:"center",
-      // background:"linear-gradient(135deg, #74ebd5 0%, #9face6 100%)",
-      background:"red",
+      background:"linear-gradient(135deg, #74ebd5 0%, #9face6 100%)",
       height:"100vh",
       width:"100vw"
     }}>

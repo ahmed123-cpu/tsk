@@ -251,9 +251,9 @@ if(showTodosType==="completed")
 
 
 {/* card container */}
-      <Container maxWidth="sm" style={{marginTop:"60px", background:"green",padding:"0"}}>
+      <Container maxWidth="sm" style={{marginTop:"0",padding:"0"}}>
     <Card
-    style={{height:"90vh", overflow:"scroll"}}
+    style={{height:"95vh", overflow:"scroll", margin:"3px"}}
     >
       <CardContent>
 
